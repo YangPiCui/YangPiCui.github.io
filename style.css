@@ -1,0 +1,46 @@
+/* http://colorhunt.co/c/2763 */
+/** {
+  border: solid 1px red;
+}*/
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #EEEEEE;
+  font-family: 'Merriweather', serif;
+  color: #222831;
+  font-size: 1.2em;
+  line-height: 2em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5em;
+  line-height: 1.8em;
+}
+
+h2 {
+  font-size: 1.3em;
+  line-height: 1.6em;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+a {
+  color: #393E46;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00ADB5;
+  text
+}
+
+.container {
+  margin-top: 2em;
+}
